@@ -1,0 +1,24 @@
+site_name: 'WQU Capstone: Developing an Algorithmic Retail Trading System'
+nav:
+  - Home: index.md
+  - Data Platform: data_platform.md
+theme:
+  name: material
+  logo: assets/WQU_logo_color.png
+  favicon: assets/WQU_logo_color.png
+  palette:
+    scheme: slate
+    primary: black
+  features:
+    - navigation.top
+    - navigation.tabs
+    - navigation.tabs.sticky
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+extra_javascript:
+  - javascripts/config.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
