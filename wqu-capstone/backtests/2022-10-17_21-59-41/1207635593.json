@@ -1,0 +1,854 @@
+{
+  "RollingWindow": {
+    "M1_20131012": {
+      "TradeStatistics": {
+        "StartDateTime": null,
+        "EndDateTime": null,
+        "TotalNumberOfTrades": 0,
+        "NumberOfWinningTrades": 0,
+        "NumberOfLosingTrades": 0,
+        "TotalProfitLoss": "0",
+        "TotalProfit": "0",
+        "TotalLoss": "0",
+        "LargestProfit": "0",
+        "LargestLoss": "0",
+        "AverageProfitLoss": "0",
+        "AverageProfit": "0",
+        "AverageLoss": "0",
+        "AverageTradeDuration": "00:00:00",
+        "AverageWinningTradeDuration": "00:00:00",
+        "AverageLosingTradeDuration": "00:00:00",
+        "MedianTradeDuration": "00:00:00",
+        "MedianWinningTradeDuration": "00:00:00",
+        "MedianLosingTradeDuration": "00:00:00",
+        "MaxConsecutiveWinningTrades": 0,
+        "MaxConsecutiveLosingTrades": 0,
+        "ProfitLossRatio": "0",
+        "WinLossRatio": "0",
+        "WinRate": "0",
+        "LossRate": "0",
+        "AverageMAE": "0",
+        "AverageMFE": "0",
+        "LargestMAE": "0",
+        "LargestMFE": "0",
+        "MaximumClosedTradeDrawdown": "0",
+        "MaximumIntraTradeDrawdown": "0",
+        "ProfitLossStandardDeviation": "0",
+        "ProfitLossDownsideDeviation": "0",
+        "ProfitFactor": "0",
+        "SharpeRatio": "0",
+        "SortinoRatio": "0",
+        "ProfitToMaxDrawdownRatio": "0",
+        "MaximumEndTradeDrawdown": "0",
+        "AverageEndTradeDrawdown": "0",
+        "MaximumDrawdownDuration": "00:00:00",
+        "TotalFees": "0"
+      },
+      "PortfolioStatistics": {
+        "AverageWinRate": "0",
+        "AverageLossRate": "0",
+        "ProfitLossRatio": "0",
+        "WinRate": "0",
+        "LossRate": "0",
+        "Expectancy": "0",
+        "CompoundingAnnualReturn": "2.4094",
+        "Drawdown": "0.012",
+        "TotalNetProfit": "0.0169",
+        "SharpeRatio": "8.6709",
+        "ProbabilisticSharpeRatio": "0.6716",
+        "Alpha": "-0.0534",
+        "Beta": "1.0032",
+        "AnnualStandardDeviation": "0.2233",
+        "AnnualVariance": "0.0498",
+        "InformationRatio": "-35.8197",
+        "TrackingError": "0.0013",
+        "TreynorRatio": "1.9297"
+      },
+      "ClosedTrades": []
+    },
+    "M3_20131012": {
+      "TradeStatistics": {
+        "StartDateTime": null,
+        "EndDateTime": null,
+        "TotalNumberOfTrades": 0,
+        "NumberOfWinningTrades": 0,
+        "NumberOfLosingTrades": 0,
+        "TotalProfitLoss": "0",
+        "TotalProfit": "0",
+        "TotalLoss": "0",
+        "LargestProfit": "0",
+        "LargestLoss": "0",
+        "AverageProfitLoss": "0",
+        "AverageProfit": "0",
+        "AverageLoss": "0",
+        "AverageTradeDuration": "00:00:00",
+        "AverageWinningTradeDuration": "00:00:00",
+        "AverageLosingTradeDuration": "00:00:00",
+        "MedianTradeDuration": "00:00:00",
+        "MedianWinningTradeDuration": "00:00:00",
+        "MedianLosingTradeDuration": "00:00:00",
+        "MaxConsecutiveWinningTrades": 0,
+        "MaxConsecutiveLosingTrades": 0,
+        "ProfitLossRatio": "0",
+        "WinLossRatio": "0",
+        "WinRate": "0",
+        "LossRate": "0",
+        "AverageMAE": "0",
+        "AverageMFE": "0",
+        "LargestMAE": "0",
+        "LargestMFE": "0",
+        "MaximumClosedTradeDrawdown": "0",
+        "MaximumIntraTradeDrawdown": "0",
+        "ProfitLossStandardDeviation": "0",
+        "ProfitLossDownsideDeviation": "0",
+        "ProfitFactor": "0",
+        "SharpeRatio": "0",
+        "SortinoRatio": "0",
+        "ProfitToMaxDrawdownRatio": "0",
+        "MaximumEndTradeDrawdown": "0",
+        "AverageEndTradeDrawdown": "0",
+        "MaximumDrawdownDuration": "00:00:00",
+        "TotalFees": "0"
+      },
+      "PortfolioStatistics": {
+        "AverageWinRate": "0",
+        "AverageLossRate": "0",
+        "ProfitLossRatio": "0",
+        "WinRate": "0",
+        "LossRate": "0",
+        "Expectancy": "0",
+        "CompoundingAnnualReturn": "2.4094",
+        "Drawdown": "0.012",
+        "TotalNetProfit": "0.0169",
+        "SharpeRatio": "8.6709",
+        "ProbabilisticSharpeRatio": "0.6716",
+        "Alpha": "-0.0534",
+        "Beta": "1.0032",
+        "AnnualStandardDeviation": "0.2233",
+        "AnnualVariance": "0.0498",
+        "InformationRatio": "-35.8197",
+        "TrackingError": "0.0013",
+        "TreynorRatio": "1.9297"
+      },
+      "ClosedTrades": []
+    },
+    "M6_20131012": {
+      "TradeStatistics": {
+        "StartDateTime": null,
+        "EndDateTime": null,
+        "TotalNumberOfTrades": 0,
+        "NumberOfWinningTrades": 0,
+        "NumberOfLosingTrades": 0,
+        "TotalProfitLoss": "0",
+        "TotalProfit": "0",
+        "TotalLoss": "0",
+        "LargestProfit": "0",
+        "LargestLoss": "0",
+        "AverageProfitLoss": "0",
+        "AverageProfit": "0",
+        "AverageLoss": "0",
+        "AverageTradeDuration": "00:00:00",
+        "AverageWinningTradeDuration": "00:00:00",
+        "AverageLosingTradeDuration": "00:00:00",
+        "MedianTradeDuration": "00:00:00",
+        "MedianWinningTradeDuration": "00:00:00",
+        "MedianLosingTradeDuration": "00:00:00",
+        "MaxConsecutiveWinningTrades": 0,
+        "MaxConsecutiveLosingTrades": 0,
+        "ProfitLossRatio": "0",
+        "WinLossRatio": "0",
+        "WinRate": "0",
+        "LossRate": "0",
+        "AverageMAE": "0",
+        "AverageMFE": "0",
+        "LargestMAE": "0",
+        "LargestMFE": "0",
+        "MaximumClosedTradeDrawdown": "0",
+        "MaximumIntraTradeDrawdown": "0",
+        "ProfitLossStandardDeviation": "0",
+        "ProfitLossDownsideDeviation": "0",
+        "ProfitFactor": "0",
+        "SharpeRatio": "0",
+        "SortinoRatio": "0",
+        "ProfitToMaxDrawdownRatio": "0",
+        "MaximumEndTradeDrawdown": "0",
+        "AverageEndTradeDrawdown": "0",
+        "MaximumDrawdownDuration": "00:00:00",
+        "TotalFees": "0"
+      },
+      "PortfolioStatistics": {
+        "AverageWinRate": "0",
+        "AverageLossRate": "0",
+        "ProfitLossRatio": "0",
+        "WinRate": "0",
+        "LossRate": "0",
+        "Expectancy": "0",
+        "CompoundingAnnualReturn": "2.4094",
+        "Drawdown": "0.012",
+        "TotalNetProfit": "0.0169",
+        "SharpeRatio": "8.6709",
+        "ProbabilisticSharpeRatio": "0.6716",
+        "Alpha": "-0.0534",
+        "Beta": "1.0032",
+        "AnnualStandardDeviation": "0.2233",
+        "AnnualVariance": "0.0498",
+        "InformationRatio": "-35.8197",
+        "TrackingError": "0.0013",
+        "TreynorRatio": "1.9297"
+      },
+      "ClosedTrades": []
+    },
+    "M12_20131012": {
+      "TradeStatistics": {
+        "StartDateTime": null,
+        "EndDateTime": null,
+        "TotalNumberOfTrades": 0,
+        "NumberOfWinningTrades": 0,
+        "NumberOfLosingTrades": 0,
+        "TotalProfitLoss": "0",
+        "TotalProfit": "0",
+        "TotalLoss": "0",
+        "LargestProfit": "0",
+        "LargestLoss": "0",
+        "AverageProfitLoss": "0",
+        "AverageProfit": "0",
+        "AverageLoss": "0",
+        "AverageTradeDuration": "00:00:00",
+        "AverageWinningTradeDuration": "00:00:00",
+        "AverageLosingTradeDuration": "00:00:00",
+        "MedianTradeDuration": "00:00:00",
+        "MedianWinningTradeDuration": "00:00:00",
+        "MedianLosingTradeDuration": "00:00:00",
+        "MaxConsecutiveWinningTrades": 0,
+        "MaxConsecutiveLosingTrades": 0,
+        "ProfitLossRatio": "0",
+        "WinLossRatio": "0",
+        "WinRate": "0",
+        "LossRate": "0",
+        "AverageMAE": "0",
+        "AverageMFE": "0",
+        "LargestMAE": "0",
+        "LargestMFE": "0",
+        "MaximumClosedTradeDrawdown": "0",
+        "MaximumIntraTradeDrawdown": "0",
+        "ProfitLossStandardDeviation": "0",
+        "ProfitLossDownsideDeviation": "0",
+        "ProfitFactor": "0",
+        "SharpeRatio": "0",
+        "SortinoRatio": "0",
+        "ProfitToMaxDrawdownRatio": "0",
+        "MaximumEndTradeDrawdown": "0",
+        "AverageEndTradeDrawdown": "0",
+        "MaximumDrawdownDuration": "00:00:00",
+        "TotalFees": "0"
+      },
+      "PortfolioStatistics": {
+        "AverageWinRate": "0",
+        "AverageLossRate": "0",
+        "ProfitLossRatio": "0",
+        "WinRate": "0",
+        "LossRate": "0",
+        "Expectancy": "0",
+        "CompoundingAnnualReturn": "2.4094",
+        "Drawdown": "0.012",
+        "TotalNetProfit": "0.0169",
+        "SharpeRatio": "8.6709",
+        "ProbabilisticSharpeRatio": "0.6716",
+        "Alpha": "-0.0534",
+        "Beta": "1.0032",
+        "AnnualStandardDeviation": "0.2233",
+        "AnnualVariance": "0.0498",
+        "InformationRatio": "-35.8197",
+        "TrackingError": "0.0013",
+        "TreynorRatio": "1.9297"
+      },
+      "ClosedTrades": []
+    }
+  },
+  "TotalPerformance": {
+    "TradeStatistics": {
+      "StartDateTime": null,
+      "EndDateTime": null,
+      "TotalNumberOfTrades": 0,
+      "NumberOfWinningTrades": 0,
+      "NumberOfLosingTrades": 0,
+      "TotalProfitLoss": "0",
+      "TotalProfit": "0",
+      "TotalLoss": "0",
+      "LargestProfit": "0",
+      "LargestLoss": "0",
+      "AverageProfitLoss": "0",
+      "AverageProfit": "0",
+      "AverageLoss": "0",
+      "AverageTradeDuration": "00:00:00",
+      "AverageWinningTradeDuration": "00:00:00",
+      "AverageLosingTradeDuration": "00:00:00",
+      "MedianTradeDuration": "00:00:00",
+      "MedianWinningTradeDuration": "00:00:00",
+      "MedianLosingTradeDuration": "00:00:00",
+      "MaxConsecutiveWinningTrades": 0,
+      "MaxConsecutiveLosingTrades": 0,
+      "ProfitLossRatio": "0",
+      "WinLossRatio": "0",
+      "WinRate": "0",
+      "LossRate": "0",
+      "AverageMAE": "0",
+      "AverageMFE": "0",
+      "LargestMAE": "0",
+      "LargestMFE": "0",
+      "MaximumClosedTradeDrawdown": "0",
+      "MaximumIntraTradeDrawdown": "0",
+      "ProfitLossStandardDeviation": "0",
+      "ProfitLossDownsideDeviation": "0",
+      "ProfitFactor": "0",
+      "SharpeRatio": "0",
+      "SortinoRatio": "0",
+      "ProfitToMaxDrawdownRatio": "0",
+      "MaximumEndTradeDrawdown": "0",
+      "AverageEndTradeDrawdown": "0",
+      "MaximumDrawdownDuration": "00:00:00",
+      "TotalFees": "0"
+    },
+    "PortfolioStatistics": {
+      "AverageWinRate": "0",
+      "AverageLossRate": "0",
+      "ProfitLossRatio": "0",
+      "WinRate": "0",
+      "LossRate": "0",
+      "Expectancy": "0",
+      "CompoundingAnnualReturn": "2.4094",
+      "Drawdown": "0.012",
+      "TotalNetProfit": "0.0169",
+      "SharpeRatio": "8.6709",
+      "ProbabilisticSharpeRatio": "0.6716",
+      "Alpha": "-0.0534",
+      "Beta": "1.0032",
+      "AnnualStandardDeviation": "0.2233",
+      "AnnualVariance": "0.0498",
+      "InformationRatio": "-35.8197",
+      "TrackingError": "0.0013",
+      "TreynorRatio": "1.9297"
+    },
+    "ClosedTrades": []
+  },
+  "AlphaRuntimeStatistics": {
+    "MeanPopulationScore": {
+      "UpdatedTimeUtc": "0001-01-01T00:00:00",
+      "Direction": 0.0,
+      "Magnitude": 0.0,
+      "IsFinalScore": false
+    },
+    "RollingAveragedPopulationScore": {
+      "UpdatedTimeUtc": "0001-01-01T00:00:00",
+      "Direction": 0.0,
+      "Magnitude": 0.0,
+      "IsFinalScore": false
+    },
+    "LongShortRatio": 1.0,
+    "FitnessScore": "0.201",
+    "PortfolioTurnover": "0.201",
+    "ReturnOverMaxDrawdown": "204.701",
+    "SortinoRatio": "79228162514264337593543950335"
+  },
+  "Charts": {
+    "Exposure": {
+      "Name": "Exposure",
+      "ChartType": 0,
+      "Series": {
+        "Equity - Long Ratio": {
+          "Name": "Equity - Long Ratio",
+          "Unit": "",
+          "Index": 0,
+          "Values": [
+            {
+              "x": 1381291200,
+              "y": 0.9976
+            },
+            {
+              "x": 1381377600,
+              "y": 0.9976
+            },
+            {
+              "x": 1381464000,
+              "y": 0.9976
+            },
+            {
+              "x": 1381550400,
+              "y": 0.9976
+            }
+          ],
+          "SeriesType": 0,
+          "Color": "",
+          "ScatterMarkerSymbol": "none"
+        },
+        "Equity - Short Ratio": {
+          "Name": "Equity - Short Ratio",
+          "Unit": "",
+          "Index": 0,
+          "Values": [
+            {
+              "x": 1381291200,
+              "y": 0.0
+            },
+            {
+              "x": 1381377600,
+              "y": 0.0
+            },
+            {
+              "x": 1381464000,
+              "y": 0.0
+            },
+            {
+              "x": 1381550400,
+              "y": 0.0
+            }
+          ],
+          "SeriesType": 0,
+          "Color": "",
+          "ScatterMarkerSymbol": "none"
+        }
+      }
+    },
+    "Drawdown": {
+      "Name": "Drawdown",
+      "ChartType": 0,
+      "Series": {
+        "Equity Drawdown": {
+          "Name": "Equity Drawdown",
+          "Unit": "%",
+          "Index": 0,
+          "Values": [
+            {
+              "x": 1381118400,
+              "y": 0.0
+            },
+            {
+              "x": 1381204800,
+              "y": 0.0
+            },
+            {
+              "x": 1381291200,
+              "y": -1.18
+            },
+            {
+              "x": 1381377600,
+              "y": -1.12
+            },
+            {
+              "x": 1381464000,
+              "y": 0.0
+            },
+            {
+              "x": 1381550400,
+              "y": 0.0
+            }
+          ],
+          "SeriesType": 0,
+          "Color": "",
+          "ScatterMarkerSymbol": "none"
+        }
+      }
+    },
+    "Assets Sales Volume": {
+      "Name": "Assets Sales Volume",
+      "ChartType": 0,
+      "Series": {
+        "SPY": {
+          "Name": "SPY",
+          "Unit": "$",
+          "Index": 0,
+          "Values": [
+            {
+              "x": 1381291200,
+              "y": 997546.0795
+            },
+            {
+              "x": 1381377600,
+              "y": 997546.0795
+            },
+            {
+              "x": 1381464000,
+              "y": 997546.0795
+            },
+            {
+              "x": 1381550400,
+              "y": 997546.0795
+            }
+          ],
+          "SeriesType": 7,
+          "Color": "",
+          "ScatterMarkerSymbol": "none"
+        }
+      }
+    },
+    "Strategy Equity": {
+      "Name": "Strategy Equity",
+      "ChartType": 0,
+      "Series": {
+        "Equity": {
+          "Name": "Equity",
+          "Unit": "$",
+          "Index": 0,
+          "Values": [
+            {
+              "x": 1381118400,
+              "y": 1000000.0
+            },
+            {
+              "x": 1381154400,
+              "y": 1000000.0
+            },
+            {
+              "x": 1381158000,
+              "y": 1000000.0
+            },
+            {
+              "x": 1381161600,
+              "y": 1000000.0
+            },
+            {
+              "x": 1381165200,
+              "y": 1000000.0
+            },
+            {
+              "x": 1381168800,
+              "y": 1000000.0
+            },
+            {
+              "x": 1381172400,
+              "y": 1000000.0
+            },
+            {
+              "x": 1381176000,
+              "y": 1000000.0
+            },
+            {
+              "x": 1381204800,
+              "y": 1000000.0
+            },
+            {
+              "x": 1381240800,
+              "y": 1000000.0
+            },
+            {
+              "x": 1381244400,
+              "y": 1000000.0
+            },
+            {
+              "x": 1381248000,
+              "y": 1000000.0
+            },
+            {
+              "x": 1381251600,
+              "y": 1000000.0
+            },
+            {
+              "x": 1381255200,
+              "y": 1000000.0
+            },
+            {
+              "x": 1381258800,
+              "y": 1000000.0
+            },
+            {
+              "x": 1381262400,
+              "y": 1000000.0
+            },
+            {
+              "x": 1381291200,
+              "y": 988229.7138
+            },
+            {
+              "x": 1381327200,
+              "y": 988229.7138
+            },
+            {
+              "x": 1381330800,
+              "y": 988229.7138
+            },
+            {
+              "x": 1381334400,
+              "y": 988229.7138
+            },
+            {
+              "x": 1381338000,
+              "y": 988229.7138
+            },
+            {
+              "x": 1381341600,
+              "y": 988229.7138
+            },
+            {
+              "x": 1381345200,
+              "y": 988229.7138
+            },
+            {
+              "x": 1381348800,
+              "y": 988229.7138
+            },
+            {
+              "x": 1381377600,
+              "y": 988765.8687
+            },
+            {
+              "x": 1381413600,
+              "y": 988765.8687
+            },
+            {
+              "x": 1381417200,
+              "y": 988765.8687
+            },
+            {
+              "x": 1381420800,
+              "y": 988765.8687
+            },
+            {
+              "x": 1381424400,
+              "y": 988765.8687
+            },
+            {
+              "x": 1381428000,
+              "y": 988765.8687
+            },
+            {
+              "x": 1381431600,
+              "y": 988765.8687
+            },
+            {
+              "x": 1381435200,
+              "y": 988765.8687
+            },
+            {
+              "x": 1381464000,
+              "y": 1010629.0763
+            },
+            {
+              "x": 1381500000,
+              "y": 1010629.0763
+            },
+            {
+              "x": 1381503600,
+              "y": 1010629.0763
+            },
+            {
+              "x": 1381507200,
+              "y": 1010629.0763
+            },
+            {
+              "x": 1381510800,
+              "y": 1010629.0763
+            },
+            {
+              "x": 1381514400,
+              "y": 1010629.0763
+            },
+            {
+              "x": 1381518000,
+              "y": 1010629.0763
+            },
+            {
+              "x": 1381521600,
+              "y": 1010629.0763
+            },
+            {
+              "x": 1381550400,
+              "y": 1016943.7902
+            }
+          ],
+          "SeriesType": 2,
+          "Color": "",
+          "ScatterMarkerSymbol": "none"
+        },
+        "Daily Performance": {
+          "Name": "Daily Performance",
+          "Unit": "%",
+          "Index": 1,
+          "Values": [
+            {
+              "x": 1381118400,
+              "y": 0.0
+            },
+            {
+              "x": 1381204800,
+              "y": 0.0
+            },
+            {
+              "x": 1381291200,
+              "y": -1.177029
+            },
+            {
+              "x": 1381377600,
+              "y": 0.05425408
+            },
+            {
+              "x": 1381464000,
+              "y": 2.211161
+            },
+            {
+              "x": 1381550400,
+              "y": 0.62483
+            }
+          ],
+          "SeriesType": 3,
+          "Color": "",
+          "ScatterMarkerSymbol": "none"
+        }
+      }
+    },
+    "Capacity": {
+      "Name": "Capacity",
+      "ChartType": 0,
+      "Series": {
+        "Strategy Capacity": {
+          "Name": "Strategy Capacity",
+          "Unit": "$",
+          "Index": 0,
+          "Values": [
+            {
+              "x": 1381118400,
+              "y": 0.0
+            },
+            {
+              "x": 1381204800,
+              "y": 0.0
+            },
+            {
+              "x": 1381291200,
+              "y": 0.0
+            },
+            {
+              "x": 1381377600,
+              "y": 0.0
+            },
+            {
+              "x": 1381464000,
+              "y": 0.0
+            },
+            {
+              "x": 1381550400,
+              "y": 985719000.0
+            }
+          ],
+          "SeriesType": 0,
+          "Color": "",
+          "ScatterMarkerSymbol": "none"
+        }
+      }
+    },
+    "Benchmark": {
+      "Name": "Benchmark",
+      "ChartType": 0,
+      "Series": {
+        "Benchmark": {
+          "Name": "Benchmark",
+          "Unit": "$",
+          "Index": 0,
+          "Values": [
+            {
+              "x": 1381118400,
+              "y": 146.0268
+            },
+            {
+              "x": 1381204800,
+              "y": 144.7558
+            },
+            {
+              "x": 1381291200,
+              "y": 143.0784
+            },
+            {
+              "x": 1381377600,
+              "y": 143.1562
+            },
+            {
+              "x": 1381464000,
+              "y": 146.3294
+            },
+            {
+              "x": 1381550400,
+              "y": 147.2459
+            }
+          ],
+          "SeriesType": 0,
+          "Color": "",
+          "ScatterMarkerSymbol": "none"
+        }
+      }
+    }
+  },
+  "Orders": {
+    "1": {
+      "Type": 4,
+      "Id": 1,
+      "ContingentId": 0,
+      "BrokerId": [
+        "1"
+      ],
+      "Symbol": {
+        "Value": "SPY",
+        "ID": "SPY R735QTJ8XC9X",
+        "Permtick": "SPY"
+      },
+      "Price": 144.78172417,
+      "PriceCurrency": "USD",
+      "Time": "2013-10-08T04:00:00Z",
+      "CreatedTime": "2013-10-08T04:00:00Z",
+      "LastFillTime": "2013-10-09T04:00:00Z",
+      "Quantity": 6890.0,
+      "Status": 3,
+      "Properties": {
+        "TimeInForce": {}
+      },
+      "SecurityType": 1,
+      "Direction": 0,
+      "Value": 997546.07953130,
+      "OrderSubmissionData": {
+        "BidPrice": 144.75578537200,
+        "AskPrice": 144.75578537200,
+        "LastPrice": 144.75578537200
+      },
+      "IsMarketable": false
+    }
+  },
+  "ProfitLoss": {},
+  "Statistics": {
+    "Total Trades": "1",
+    "Average Win": "0%",
+    "Average Loss": "0%",
+    "Compounding Annual Return": "240.939%",
+    "Drawdown": "1.200%",
+    "Expectancy": "0",
+    "Net Profit": "1.694%",
+    "Sharpe Ratio": "8.671",
+    "Probabilistic Sharpe Ratio": "67.159%",
+    "Loss Rate": "0%",
+    "Win Rate": "0%",
+    "Profit-Loss Ratio": "0",
+    "Alpha": "-0.053",
+    "Beta": "1.003",
+    "Annual Standard Deviation": "0.223",
+    "Annual Variance": "0.05",
+    "Information Ratio": "-35.82",
+    "Tracking Error": "0.001",
+    "Treynor Ratio": "1.93",
+    "Total Fees": "$34.45",
+    "Estimated Strategy Capacity": "$970000000.00",
+    "Lowest Capacity Asset": "SPY R735QTJ8XC9X"
+  },
+  "RuntimeStatistics": {
+    "Capacity": "$970M",
+    "Equity": "$1,016,943.79",
+    "Fees": "-$34.45",
+    "Holdings": "$1,014,524.32",
+    "Net Profit": "$0.00",
+    "Probabilistic Sharpe Ratio": "67.159%",
+    "Return": "1.69 %",
+    "Unrealized": "$16,943.79",
+    "Volume": "$997,546.08"
+  },
+  "AlgorithmConfiguration": {
+    "AccountCurrency": "USD",
+    "Brokerage": 0,
+    "AccountType": 0
+  }
+}

@@ -1,0 +1,3 @@
+2013-10-07 00:00:00 Launching analysis for 1207635593 with LEAN Engine v2.5.0.0
+2013-10-08 00:00:00 Purchased Stock
+2013-10-12 00:00:00 Algorithm Id:(1207635593) completed in 0.48 seconds at 0k data points per second. Processing total of 48 data points.
