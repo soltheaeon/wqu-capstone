@@ -39,7 +39,7 @@ class SmartBetaStrategies(QCAlgorithm):
         self.SetEndDate(RunConfig.EndDate.year,RunConfig.EndDate.month, RunConfig.EndDate.day)
         
         # Set Strategy currency
-        self.SetAccountCurrency("USD")
+        self.SetAccountCurrency(RunConfig.AccountCurrency)
         # Set Strategy Cash
         self.SetCash(RunConfig.StrategyCash)
         
@@ -47,7 +47,7 @@ class SmartBetaStrategies(QCAlgorithm):
         self.UniverseSettings.Resolution = RunConfig.Resolution
         
         # Define benchmark for strategy
-        benchmark = self.AddEquity("SPY")
+        benchmark = self.AddEquity(RunConfig.Benchmark)
         self.SetBenchmark(benchmark.Symbol)
         self.AddEquity(benchmark.Symbol, RunConfig.Resolution)
         
@@ -162,7 +162,7 @@ class SmartBetaStrategies(QCAlgorithm):
             sorted_zScore = dict(sorted(zScores.items(), key=operator.itemgetter(1), reverse=True))
             if sorted_zScore:
                 # Take Top 50 stocks
-                long_stocks = {k: sorted_zScore[k] for k in list(sorted_zScore)[:50]}
+                long_stocks = {k: sorted_zScore[k] for k in list(sorted_zScore)[:RunConfig.NumOfStock]}
                 
                 # Extract stocks which are in portfolio and invested
                 stocks_invested = [x.Key for x in self.Portfolio if x.Value.Invested]

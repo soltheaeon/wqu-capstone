@@ -15,9 +15,15 @@ class RunConfig:
     
     # Resolution of the price data
     Resolution = Resolution.Daily
+
+    # Set the Account Currency code
+    AccountCurrency = 'USD'
     
     # # Benchmark Index used for evaluation
-    # BenchmarkIndex = "SPY"
+    Benchmark = "SPY"
+
+    # Num of Stocks - pick top #of stocks
+    NumOfStock = 50
 
     # Flag to indicate if Value/Quality Smart Beta model should be run
     # Set 'True' for Value and 'False' for Quality
